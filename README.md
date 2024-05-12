@@ -5,7 +5,7 @@
 [![PyPI - Django Version](https://img.shields.io/pypi/djversions/django-sms?color=156741&logo=django&logoColor=ffffff&style=for-the-badge)](https://pypi.org/project/django-sms/)
 
 **django-sms** is a Django app for sending SMS with interchangeable backends. The module is heavily based upon and structured the same way as the `django.core.mail` module.
-
+ 
 - [Sending SMS](#sending-sms)
     - [Quick example](#quick-example)
     - [send_sms()](#send_sms)
